@@ -41,6 +41,19 @@
 	    <version>5.0.10.RELEASE</version>
 	</dependency>
 	<!-- Spring Security Artifacts - END -->
+	
+	<!-- My SQL -->
+    <dependency>
+        <groupId>org.springframework</groupId>
+        <artifactId>spring-jdbc</artifactId>
+        <version>4.3.3.RELEASE</version>
+    </dependency>
+    <dependency>
+        <groupId>mysql</groupId>
+        <artifactId>mysql-connector-java</artifactId>
+        <version>6.0.4</version>
+    </dependency>    
+    <!-- End My SQL -->
     
   </dependencies>
   	
